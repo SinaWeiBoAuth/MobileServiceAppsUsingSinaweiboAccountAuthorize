@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOZHANPC</Machine>
+    <WindowsUser>dongd_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d0464449-5b1d-400f-94f5-898e44186049</PackageIdentityName>
+    <IntermediateOutputPath>C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\bin\Debug\mobileservicesinaweibo.Windows.exe">
+      <PackagePath>mobileservicesinaweibo.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\packages\WindowsAzure.MobileServices.1.3.0\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\packages\WindowsAzure.MobileServices.1.3.0\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\packages\Newtonsoft.Json.6.0.1\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\packages\Microsoft.Net.Http.2.2.15\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\packages\Microsoft.Net.Http.2.2.15\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\bin\Debug\Common\QuickStartTask.xbf">
+      <PackagePath>Common\QuickStartTask.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\bin\Debug\mobileservicesinaweibo.Windows.xr.xml">
+      <PackagePath>mobileservicesinaweibo.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\MyProjects\AAZDDDeving\AAZDDDeving\MobileService.SinaWeibo\MobileServiceSinaWeibo\mobileservicesinaweibo\mobileservicesinaweibo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
